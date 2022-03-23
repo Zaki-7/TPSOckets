@@ -21,7 +21,7 @@ public class MyServer {
 		 * Après la connexion on va créer les objets 
 		 * InputStream : pour lire un octet envoyée par le client
 		 * OutputStream : pour envoie une réponse à le client 
-		 */				
+		 */							
 		
 		System.out.println("Connexion d'un client "+s.getRemoteSocketAddress());
 		InputStream is = s.getInputStream();
