@@ -23,5 +23,5 @@ le serveur reçoit le nombre envoyée par le client et après envoie la réponse
 
 PARTIE 4:
 
-
+Dans cette partie on va créer un serveur multi-Thread qui peut 
  
