@@ -1,6 +1,7 @@
 # TPSOckets
 
 PARTIE 2:
+
 dans cette partie on va créer un serveur et un client.
 On lance le serveur et on attend la connexion d'un client
 ![image](https://user-images.githubusercontent.com/61559275/159674985-f3d31a81-78a7-4fc4-afaa-dde858de1702.png)
