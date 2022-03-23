@@ -12,7 +12,7 @@ voici la Connexion du client :
 ![image](https://user-images.githubusercontent.com/61559275/159675253-3517dc54-3308-47bf-baaf-e1e67a9a087d.png)
 
 Puis le serveur attend que le client envoie un octet.
-puis le client entrer un nombre au clavier et on envoie le nombre entrer au serveur 
+puis le client entrer un octet au clavier et on envoie l'octet entrer au serveur 
 et on attend la réponse du serveur
 ![image](https://user-images.githubusercontent.com/61559275/159677088-e19b51ec-175e-4fdf-b60d-295a5da251fe.png)
 
