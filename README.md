@@ -21,5 +21,7 @@ le serveur reçoit le nombre envoyée par le client et après envoie la réponse
 ![image](https://user-images.githubusercontent.com/61559275/159676923-4949901c-76a7-400b-9c8d-850431988a3d.png)
 
 
+PARTIE 4:
+
 
  
