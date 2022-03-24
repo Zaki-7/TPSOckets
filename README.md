@@ -21,5 +21,11 @@ le serveur reçoit le nombre envoyée par le client et après envoie la réponse
 ![image](https://user-images.githubusercontent.com/61559275/159676923-4949901c-76a7-400b-9c8d-850431988a3d.png)
 
 
+PARTIE 4:
+
+Dans cette partie on va créer un serveur Multi-Threads qui peut connecte plusieurs clients.
+l'objectif de cette partie est que le client envoie une chaine de caractère et le serveur renvoie a le client la longueur de la chaine
+voici un exemple :
+![image](https://user-images.githubusercontent.com/61559275/159786349-71e684e0-1e26-4bc5-b0e6-f3d0d27e8952.png)
 
  
