@@ -8,9 +8,11 @@ On lance le serveur et on attend la connexion d'un client </p>
 ![image](https://user-images.githubusercontent.com/61559275/159674985-f3d31a81-78a7-4fc4-afaa-dde858de1702.png)
 
 <p> Après on fait la Connexion d'un client : </p>
+
 ![image](https://user-images.githubusercontent.com/61559275/159675861-105c04dd-9917-403e-865f-31b64bc641ed.png)
 
 <p> voici la Connexion du client : </p>
+
 ![image](https://user-images.githubusercontent.com/61559275/159675253-3517dc54-3308-47bf-baaf-e1e67a9a087d.png)
 
 <p> Puis le serveur attend que le client envoie un octet.<br>
