@@ -1,7 +1,7 @@
 # TPSOckets
 
 <h1> PARTIE 2: </h1>
-<hr>
+
 <p> dans cette partie on va créer un serveur et un client.<br>
 On lance le serveur et on attend la connexion d'un client </p>
 
