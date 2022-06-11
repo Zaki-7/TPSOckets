@@ -1,5 +1,12 @@
 # TPSOckets
 
+# *****************************************************
+# Zakaria EL Idrissi
+# Master Intelligence Artificiel et Analyse De Données
+# Faculté des sciences Meknès
+# zak.elidrissi@edu.umi.ac.ma
+# *****************************************************
+
 <h1> PARTIE 2: </h1>
 
 <p> dans cette partie on va créer un serveur et un client.<br>
